@@ -1,4 +1,4 @@
-# HashiCorp Certified Vault Associate (Video Course)
+# HashiCorp Certified Vault Associate Video Course
 with Dave Prowse (https://prowse.tech)
 
 ## Introduction
